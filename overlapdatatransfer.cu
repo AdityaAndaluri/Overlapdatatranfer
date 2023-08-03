@@ -1,4 +1,4 @@
-
+//This is a sample implementation of updating total marks of selected students program using runbatchespipeline function which uses parallel pipelining
 #include <iostream>
 #include <vector>
 #include<stdio.h>
